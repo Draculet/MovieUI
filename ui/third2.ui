@@ -1,0 +1,1407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>762</width>
+    <height>564</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <layout class="QHBoxLayout" name="horizontalLayout_2">
+   <item>
+    <widget class="QFrame" name="frame">
+     <property name="frameShape">
+      <enum>QFrame::StyledPanel</enum>
+     </property>
+     <property name="frameShadow">
+      <enum>QFrame::Raised</enum>
+     </property>
+     <layout class="QHBoxLayout" name="horizontalLayout_3">
+      <item>
+       <layout class="QVBoxLayout" name="verticalLayout">
+        <item>
+         <widget class="QFrame" name="frame_4">
+          <property name="frameShape">
+           <enum>QFrame::StyledPanel</enum>
+          </property>
+          <property name="frameShadow">
+           <enum>QFrame::Raised</enum>
+          </property>
+          <layout class="QVBoxLayout" name="verticalLayout_3">
+           <item>
+            <widget class="QLabel" name="movieLabel">
+             <property name="font">
+              <font>
+               <family>URW Chancery L</family>
+               <pointsize>28</pointsize>
+               <italic>true</italic>
+              </font>
+             </property>
+             <property name="text">
+              <string>                            FIN.</string>
+             </property>
+            </widget>
+           </item>
+          </layout>
+         </widget>
+        </item>
+        <item>
+         <layout class="QHBoxLayout" name="horizontalLayout_4">
+          <item>
+           <widget class="QFrame" name="frame1">
+            <property name="frameShape">
+             <enum>QFrame::StyledPanel</enum>
+            </property>
+            <property name="frameShadow">
+             <enum>QFrame::Raised</enum>
+            </property>
+            <layout class="QGridLayout" name="gridLayout_6">
+             <item row="1" column="3">
+              <widget class="QCheckBox" name="checkBox24">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="2" column="2">
+              <widget class="QCheckBox" name="checkBox43">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="0" column="6">
+              <widget class="QCheckBox" name="checkBox7">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="2" column="3">
+              <widget class="QCheckBox" name="checkBox44">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="2" column="4">
+              <widget class="QCheckBox" name="checkBox45">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="0" column="3">
+              <widget class="QCheckBox" name="checkBox4">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="1" column="0">
+              <widget class="QCheckBox" name="checkBox21">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="2" column="5">
+              <widget class="QCheckBox" name="checkBox46">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="1" column="2">
+              <widget class="QCheckBox" name="checkBox23">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="1" column="9">
+              <widget class="QCheckBox" name="checkBox30">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="0" column="9">
+              <widget class="QCheckBox" name="checkBox10">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="1" column="1">
+              <widget class="QCheckBox" name="checkBox22">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="2" column="6">
+              <widget class="QCheckBox" name="checkBox47">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="2" column="1">
+              <widget class="QCheckBox" name="checkBox42">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="1" column="8">
+              <widget class="QCheckBox" name="checkBox29">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="1" column="6">
+              <widget class="QCheckBox" name="checkBox27">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="1" column="4">
+              <widget class="QCheckBox" name="checkBox25">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="0" column="8">
+              <widget class="QCheckBox" name="checkBox9">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="2" column="0">
+              <widget class="QCheckBox" name="checkBox41">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="0" column="5">
+              <widget class="QCheckBox" name="checkBox6">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="2" column="8">
+              <widget class="QCheckBox" name="checkBox49">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="2" column="9">
+              <widget class="QCheckBox" name="checkBox50">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="0" column="7">
+              <widget class="QCheckBox" name="checkBox8">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="1" column="7">
+              <widget class="QCheckBox" name="checkBox28">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="1" column="5">
+              <widget class="QCheckBox" name="checkBox26">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="0" column="4">
+              <widget class="QCheckBox" name="checkBox5">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="0" column="2">
+              <widget class="QCheckBox" name="checkBox3">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="0" column="1">
+              <widget class="QCheckBox" name="checkBox2">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="0" column="0">
+              <widget class="QCheckBox" name="checkBox1">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="2" column="7">
+              <widget class="QCheckBox" name="checkBox48">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+            </layout>
+           </widget>
+          </item>
+          <item>
+           <widget class="QFrame" name="frame2">
+            <property name="frameShape">
+             <enum>QFrame::StyledPanel</enum>
+            </property>
+            <property name="frameShadow">
+             <enum>QFrame::Raised</enum>
+            </property>
+            <layout class="QGridLayout" name="gridLayout_8">
+             <item row="1" column="2">
+              <widget class="QCheckBox" name="checkBox33">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="1" column="9">
+              <widget class="QCheckBox" name="checkBox40">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="0" column="5">
+              <widget class="QCheckBox" name="checkBox16">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="0" column="0">
+              <widget class="QCheckBox" name="checkBox11">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="2" column="6">
+              <widget class="QCheckBox" name="checkBox57">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="1" column="8">
+              <widget class="QCheckBox" name="checkBox39">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="0" column="1">
+              <widget class="QCheckBox" name="checkBox12">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="0" column="4">
+              <widget class="QCheckBox" name="checkBox15">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="1" column="5">
+              <widget class="QCheckBox" name="checkBox36">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="1" column="3">
+              <widget class="QCheckBox" name="checkBox34">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="2" column="2">
+              <widget class="QCheckBox" name="checkBox53">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="2" column="3">
+              <widget class="QCheckBox" name="checkBox54">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="2" column="1">
+              <widget class="QCheckBox" name="checkBox52">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="1" column="1">
+              <widget class="QCheckBox" name="checkBox32">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="2" column="9">
+              <widget class="QCheckBox" name="checkBox60">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="0" column="6">
+              <widget class="QCheckBox" name="checkBox17">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="2" column="4">
+              <widget class="QCheckBox" name="checkBox55">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="0" column="3">
+              <widget class="QCheckBox" name="checkBox14">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="1" column="4">
+              <widget class="QCheckBox" name="checkBox35">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="1" column="0">
+              <widget class="QCheckBox" name="checkBox31">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="0" column="9">
+              <widget class="QCheckBox" name="checkBox20">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="1" column="7">
+              <widget class="QCheckBox" name="checkBox38">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="0" column="7">
+              <widget class="QCheckBox" name="checkBox18">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="2" column="8">
+              <widget class="QCheckBox" name="checkBox59">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="0" column="2">
+              <widget class="QCheckBox" name="checkBox13">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="2" column="0">
+              <widget class="QCheckBox" name="checkBox51">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="0" column="8">
+              <widget class="QCheckBox" name="checkBox19">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="1" column="6">
+              <widget class="QCheckBox" name="checkBox37">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="2" column="7">
+              <widget class="QCheckBox" name="checkBox58">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="2" column="5">
+              <widget class="QCheckBox" name="checkBox56">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+            </layout>
+           </widget>
+          </item>
+         </layout>
+        </item>
+        <item>
+         <layout class="QHBoxLayout" name="horizontalLayout">
+          <item>
+           <widget class="QFrame" name="frame3">
+            <property name="frameShape">
+             <enum>QFrame::StyledPanel</enum>
+            </property>
+            <property name="frameShadow">
+             <enum>QFrame::Raised</enum>
+            </property>
+            <layout class="QGridLayout" name="gridLayout_9">
+             <item row="1" column="3">
+              <widget class="QCheckBox" name="checkBox84">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="2" column="3">
+              <widget class="QCheckBox" name="checkBox104">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="2" column="4">
+              <widget class="QCheckBox" name="checkBox105">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="1" column="6">
+              <widget class="QCheckBox" name="checkBox87">
+               <property name="enabled">
+                <bool>true</bool>
+               </property>
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="1" column="4">
+              <widget class="QCheckBox" name="checkBox85">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="1" column="8">
+              <widget class="QCheckBox" name="checkBox89">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="0" column="5">
+              <widget class="QCheckBox" name="checkBox66">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="0" column="8">
+              <widget class="QCheckBox" name="checkBox69">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="2" column="0">
+              <widget class="QCheckBox" name="checkBox101">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="1" column="2">
+              <widget class="QCheckBox" name="checkBox83">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="1" column="9">
+              <widget class="QCheckBox" name="checkBox90">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="0" column="9">
+              <widget class="QCheckBox" name="checkBox70">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="1" column="1">
+              <widget class="QCheckBox" name="checkBox82">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="1" column="0">
+              <widget class="QCheckBox" name="checkBox81">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="2" column="5">
+              <widget class="QCheckBox" name="checkBox106">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="2" column="8">
+              <widget class="QCheckBox" name="checkBox109">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="1" column="7">
+              <widget class="QCheckBox" name="checkBox88">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="2" column="9">
+              <widget class="QCheckBox" name="checkBox110">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="0" column="7">
+              <widget class="QCheckBox" name="checkBox68">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="0" column="2">
+              <widget class="QCheckBox" name="checkBox63">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="1" column="5">
+              <widget class="QCheckBox" name="checkBox86">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="0" column="1">
+              <widget class="QCheckBox" name="checkBox62">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="0" column="4">
+              <widget class="QCheckBox" name="checkBox65">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="0" column="0">
+              <widget class="QCheckBox" name="checkBox61">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="2" column="7">
+              <widget class="QCheckBox" name="checkBox108">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="2" column="6">
+              <widget class="QCheckBox" name="checkBox107">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="2" column="1">
+              <widget class="QCheckBox" name="checkBox102">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="0" column="3">
+              <widget class="QCheckBox" name="checkBox64">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="0" column="6">
+              <widget class="QCheckBox" name="checkBox67">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="2" column="2">
+              <widget class="QCheckBox" name="checkBox103">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+            </layout>
+           </widget>
+          </item>
+          <item>
+           <widget class="QFrame" name="frame4">
+            <property name="frameShape">
+             <enum>QFrame::StyledPanel</enum>
+            </property>
+            <property name="frameShadow">
+             <enum>QFrame::Raised</enum>
+            </property>
+            <layout class="QGridLayout" name="gridLayout_10">
+             <item row="1" column="3">
+              <widget class="QCheckBox" name="checkBox94">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="2" column="2">
+              <widget class="QCheckBox" name="checkBox113">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="0" column="6">
+              <widget class="QCheckBox" name="checkBox77">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="2" column="3">
+              <widget class="QCheckBox" name="checkBox114">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="2" column="4">
+              <widget class="QCheckBox" name="checkBox115">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="0" column="3">
+              <widget class="QCheckBox" name="checkBox74">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="1" column="0">
+              <widget class="QCheckBox" name="checkBox91">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="2" column="5">
+              <widget class="QCheckBox" name="checkBox116">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="1" column="2">
+              <widget class="QCheckBox" name="checkBox93">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="1" column="9">
+              <widget class="QCheckBox" name="checkBox100">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="0" column="9">
+              <widget class="QCheckBox" name="checkBox80">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="1" column="1">
+              <widget class="QCheckBox" name="checkBox92">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="2" column="6">
+              <widget class="QCheckBox" name="checkBox117">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="2" column="1">
+              <widget class="QCheckBox" name="checkBox112">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="1" column="8">
+              <widget class="QCheckBox" name="checkBox99">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="1" column="6">
+              <widget class="QCheckBox" name="checkBox97">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="1" column="4">
+              <widget class="QCheckBox" name="checkBox95">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="0" column="8">
+              <widget class="QCheckBox" name="checkBox79">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="2" column="0">
+              <widget class="QCheckBox" name="checkBox111">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="0" column="5">
+              <widget class="QCheckBox" name="checkBox76">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="2" column="8">
+              <widget class="QCheckBox" name="checkBox119">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="2" column="9">
+              <widget class="QCheckBox" name="checkBox120">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="0" column="7">
+              <widget class="QCheckBox" name="checkBox78">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="1" column="7">
+              <widget class="QCheckBox" name="checkBox98">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="1" column="5">
+              <widget class="QCheckBox" name="checkBox96">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="0" column="4">
+              <widget class="QCheckBox" name="checkBox75">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="0" column="2">
+              <widget class="QCheckBox" name="checkBox73">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="0" column="1">
+              <widget class="QCheckBox" name="checkBox72">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="0" column="0">
+              <widget class="QCheckBox" name="checkBox71">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+             <item row="2" column="7">
+              <widget class="QCheckBox" name="checkBox118">
+               <property name="text">
+                <string/>
+               </property>
+               <attribute name="buttonGroup">
+                <string notr="true">buttonGroup</string>
+               </attribute>
+              </widget>
+             </item>
+            </layout>
+           </widget>
+          </item>
+         </layout>
+        </item>
+       </layout>
+      </item>
+      <item>
+       <widget class="QFrame" name="frame5">
+        <property name="frameShape">
+         <enum>QFrame::StyledPanel</enum>
+        </property>
+        <property name="frameShadow">
+         <enum>QFrame::Raised</enum>
+        </property>
+        <layout class="QVBoxLayout" name="verticalLayout_2">
+         <item>
+          <widget class="QFrame" name="shopFrame">
+           <property name="frameShape">
+            <enum>QFrame::StyledPanel</enum>
+           </property>
+           <property name="frameShadow">
+            <enum>QFrame::Raised</enum>
+           </property>
+           <widget class="QPushButton" name="commitButton">
+            <property name="geometry">
+             <rect>
+              <x>20</x>
+              <y>120</y>
+              <width>91</width>
+              <height>27</height>
+             </rect>
+            </property>
+            <property name="font">
+             <font>
+              <family>URW Chancery L</family>
+              <pointsize>16</pointsize>
+              <italic>true</italic>
+             </font>
+            </property>
+            <property name="text">
+             <string>Commit</string>
+            </property>
+           </widget>
+           <widget class="QLabel" name="totalLabel">
+            <property name="geometry">
+             <rect>
+              <x>10</x>
+              <y>90</y>
+              <width>121</width>
+              <height>21</height>
+             </rect>
+            </property>
+            <property name="font">
+             <font>
+              <family>URW Chancery L</family>
+              <pointsize>14</pointsize>
+              <italic>true</italic>
+             </font>
+            </property>
+            <property name="text">
+             <string>Total:</string>
+            </property>
+           </widget>
+           <widget class="QLabel" name="titleLabel">
+            <property name="geometry">
+             <rect>
+              <x>10</x>
+              <y>10</y>
+              <width>121</width>
+              <height>71</height>
+             </rect>
+            </property>
+            <property name="font">
+             <font>
+              <family>URW Chancery L</family>
+              <pointsize>16</pointsize>
+              <italic>true</italic>
+             </font>
+            </property>
+            <property name="text">
+             <string>     Enjob  It !</string>
+            </property>
+           </widget>
+          </widget>
+         </item>
+        </layout>
+       </widget>
+      </item>
+     </layout>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+ <buttongroups>
+  <buttongroup name="buttonGroup"/>
+ </buttongroups>
+</ui>

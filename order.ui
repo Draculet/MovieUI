@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>662</width>
+    <height>549</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QTableWidget" name="tableWidget">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>130</y>
+     <width>591</width>
+     <height>401</height>
+    </rect>
+   </property>
+   <row>
+    <property name="text">
+     <string>订单1</string>
+    </property>
+   </row>
+   <column>
+    <property name="text">
+     <string>用户id</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>电影名</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>电影厅</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>座位行</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>座位列</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>价格</string>
+    </property>
+   </column>
+   <item row="0" column="0">
+    <property name="text">
+     <string>1</string>
+    </property>
+   </item>
+   <item row="0" column="1">
+    <property name="text">
+     <string>DeadPool</string>
+    </property>
+   </item>
+   <item row="0" column="2">
+    <property name="text">
+     <string>1</string>
+    </property>
+   </item>
+   <item row="0" column="3">
+    <property name="text">
+     <string>1</string>
+    </property>
+   </item>
+   <item row="0" column="4">
+    <property name="text">
+     <string>1</string>
+    </property>
+   </item>
+   <item row="0" column="5">
+    <property name="text">
+     <string>40</string>
+    </property>
+   </item>
+  </widget>
+  <widget class="QLabel" name="orderTitle">
+   <property name="geometry">
+    <rect>
+     <x>220</x>
+     <y>20</y>
+     <width>271</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:36pt; font-weight:600;&quot;&gt;用户订单&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="back">
+   <property name="geometry">
+    <rect>
+     <x>490</x>
+     <y>90</y>
+     <width>99</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>返回</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="delButt">
+   <property name="geometry">
+    <rect>
+     <x>550</x>
+     <y>50</y>
+     <width>99</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>退票</string>
+   </property>
+  </widget>
+  <widget class="QSpinBox" name="delSpin">
+   <property name="geometry">
+    <rect>
+     <x>490</x>
+     <y>50</y>
+     <width>48</width>
+     <height>27</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLabel" name="delLabel">
+   <property name="geometry">
+    <rect>
+     <x>490</x>
+     <y>10</y>
+     <width>161</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>请输入要退的票号</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="fleshButt">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>90</y>
+     <width>99</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>刷新</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

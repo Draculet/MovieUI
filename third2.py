@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-
 # Form implementation generated from reading ui file 'third2.ui'
 #
 # Created by: PyQt5 UI code generator 5.12.1
@@ -116,7 +115,7 @@ class Ui_Form2(object):
         self.checkBox42 = QtWidgets.QCheckBox(self.frame_3)
         self.checkBox42.setText("")
         self.checkBox42.setObjectName("checkBox42")
-        self.buttonGroup.addButton(self.checkBox42)
+        self.buttonGroup.addButton(self.checkBox42, 42)
         self.gridLayout_6.addWidget(self.checkBox42, 2, 1, 1, 1)
         self.checkBox29 = QtWidgets.QCheckBox(self.frame_3)
         self.checkBox29.setText("")
@@ -720,8 +719,8 @@ class Ui_Form2(object):
     def retranslateUi(self, Form):
         _translate = QtCore.QCoreApplication.translate
         Form.setWindowTitle(_translate("Form", "Form"))
-        self.movieLabel.setText(_translate("Form", "                 FIN."))
-        self.commitButton.setText(_translate("Form", "Commit"))
+        self.movieLabel.setText(_translate("Form", "                 Movie Stage"))
+        self.commitButton.setText(_translate("Form", "Buy It!"))
         self.totalLabel.setText(_translate("Form", "Total:"))
         self.titleLabel.setText(_translate("Form", "    Enjob  It !"))
 
